@@ -163,3 +163,6 @@
 
 
 
+
+## Simulation
+See [simulation/README.md](simulation/README.md) for running the coarse-grained MD example.
